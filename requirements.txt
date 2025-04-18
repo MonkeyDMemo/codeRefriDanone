@@ -1,0 +1,12 @@
+azure-functions
+azure-storage-blob
+pandas
+matplotlib
+seaborn
+pyodbc
+fpdf
+tabulate
+requests
+opencv-python
+matplotlib
+ultralytics
