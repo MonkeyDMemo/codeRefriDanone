@@ -1,0 +1,5 @@
+.env
+settings.json
+capturas*
+resultados_yolo*
+captura.log
